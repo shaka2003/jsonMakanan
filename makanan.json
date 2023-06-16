@@ -1,0 +1,6 @@
+[
+    {"nama": "Dada Ayam", "kalori": "200", "imageId": "dada"},
+    {"nama": "Gandum", "kalori": "200", "imageId": "gandum"},
+    {"nama": "Telur Ayam", "kalori": "200", "imageId": "telur"},
+    {"nama": "Alpukat", "kalori": "200", "imageId": "alpukat"},
+]
